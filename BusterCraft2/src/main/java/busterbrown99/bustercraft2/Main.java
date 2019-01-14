@@ -23,7 +23,7 @@ public class Main {
 	//PREINIT
 	public static void PreInit(FMLPreInitializationEvent event)
 	{
-		//Fuck you kevin
+		//Fuck you Kevin
 	}
 	
 	//INIT
