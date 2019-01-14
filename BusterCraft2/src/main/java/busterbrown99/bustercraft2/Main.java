@@ -28,7 +28,6 @@ public class Main {
 	//INIT
 	public static void init(FMLInitializationEvent event) {
 		
-		
 	}
 	
 	//POSTINIT
