@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bc2",
+  "name": "BusterCraft 2",
+  "description": "WIP",
+  "version": "2.0.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/busterbrown99/bustercraft2.git",
+  "updateUrl": "",
+  "authorList": ["BusterBrown99, SpacePlexity"],
+  "credits": "MissMaraJoy and Kevin for the Moral Support",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
